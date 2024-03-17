@@ -1,0 +1,68 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.all{
+  width: 100%;
+  height: 100%;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 85px;
+  background-color: #B8CFCA ;
+}
+
+.logo{
+  font-size: 35px;
+  line-height: 43.32px;
+  font-weight: 400;
+  margin-left: 25px;
+  margin-top: 17px;
+  font-style: italic;
+}
+
+.searchBox{
+  height: 20px;
+  margin-top: 32.5px;
+  margin-left: 650px;
+}
+
+.signBox{
+  height: 20px;
+  margin-top: 32.5px;
+  margin-right: 75px;
+}
+
+h3{
+  margin-left: 450px;
+  margin-top: 55px;
+}
+
+.select{
+  margin-top: 10px;
+  margin-left: 610px;
+}
+
+.box{
+  height: 280px;
+  width: 500px;
+  background-color: #B8CFCA  ;
+  margin-top:45px;
+  margin-left: 395px;
+}
+
+.sembol{
+  font-style: italic;
+  margin-left: 205px;
+  padding-top: 15px;
+}
+
+p{
+  margin-left: 185px;
+  margin-top: 6px;
+ 
+
+}
